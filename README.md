@@ -1,52 +1,18 @@
-<!-- Professional Animated Header -->
+
 <div align="center">
-  <!-- Gradient background with smooth animation -->
-  <div style="
-    background: linear-gradient(-45deg, #1a2a6c, #b21f1f, #fdbb2d);
-    background-size: 400% 400%;
-    animation: gradient 12s ease infinite;
-    padding: 2.5rem;
-    border-radius: 12px;
-    margin-bottom: 2.5rem;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-  ">
-    <!-- Typing animation with professional font -->
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋,+I'm+Ngong+Kuot" alt="Professional Typing Animation" />
-    </div>
-    
-    <!-- Professional title with subtle animation -->
-    <h3 style="
-      color: white; 
-      margin-top: 1.2rem;
-      font-family: 'Segoe UI', sans-serif;
-      text-shadow: 1px 1px 4px rgba(0,0,0,0.3);
-      animation: fadeIn 2s ease-in;
-    ">
-      💻 Full-Stack Developer | 📈 Digital Marketer | 🎨 Graphic Designer
-    </h3>
+  <!-- Header with capsule render for animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=Ngong%20Kuot&fontSize=70&fontAlignY=35&animation=fadeIn" />
+
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&duration=3500&pause=800&color=1A2A6C&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋,+I'm+Ngong+Kuot" alt="Typing Animation" />
+  
+  <!-- Professional badges -->
+  <div>
+    <img src="https://img.shields.io/badge/💻_Full_Stack-Developer-1a2a6c?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/📈_Digital-Marketer-b21f1f?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/🎨_Creative-Designer-fdbb2d?style=for-the-badge&labelColor=000000" />
   </div>
 </div>
-
-<style>
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-</style>
-
----
-
-### 🔥 About Me
-
-I'm a passionate and self-driven **Full-Stack Developer** who builds clean, responsive, and functional websites and apps. I combine technical skills with creative flair to deliver engaging digital experiences.
-
-I also thrive in the worlds of **Digital Marketing** and **Graphic Design**, helping brands grow and communicate effectively through well-designed strategies and visuals.
 
 ---
 
