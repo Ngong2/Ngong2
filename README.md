@@ -27,9 +27,6 @@
 </div>
 
 ### 🔥 About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" width="40%" />
-
 I'm a passionate and self-driven **Full-Stack Developer** who builds clean, responsive, and functional websites and apps. I combine technical skills with creative flair to deliver engaging digital experiences.
 
 I also thrive in the worlds of **Digital Marketing** and **Graphic Design**, helping brands grow and communicate effectively through well-designed strategies and visuals.
