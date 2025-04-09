@@ -1,20 +1,42 @@
 
 <div align="center">
-  <!-- Header with capsule render for animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=Ngong%20Kuot&fontSize=70&fontAlignY=35&animation=fadeIn" />
+  <!-- Animated wave header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=Ngong%20Kuot&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Digital%20Marketer%20|%20Designer&descAlignY=60" />
 
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&duration=3500&pause=800&color=1A2A6C&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋,+I'm+Ngong+Kuot" alt="Typing Animation" />
+  <!-- Multi-line typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&duration=3500&pause=800&color=1A2A6C&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋,+I'm+Ngong+Kuot;Welcome+to+my+creative+space;Let's+build+something+amazing!" alt="Typing Animation" />
   
-  <!-- Professional badges -->
-  <div>
-    <img src="https://img.shields.io/badge/💻_Full_Stack-Developer-1a2a6c?style=for-the-badge&labelColor=000000" />
-    <img src="https://img.shields.io/badge/📈_Digital-Marketer-b21f1f?style=for-the-badge&labelColor=000000" />
-    <img src="https://img.shields.io/badge/🎨_Creative-Designer-fdbb2d?style=for-the-badge&labelColor=000000" />
+  <!-- Animated badges with hover effect -->
+  <div style="margin: 20px 0;">
+    <a href="#full-stack">
+      <img src="https://img.shields.io/badge/💻_Full_Stack-Developer-1a2a6c?style=for-the-badge&labelColor=000000&animation=scaleIn" />
+    </a>
+    <a href="#marketing">
+      <img src="https://img.shields.io/badge/📈_Digital-Marketer-b21f1f?style=for-the-badge&labelColor=000000" />
+    </a>
+    <a href="#design">
+      <img src="https://img.shields.io/badge/🎨_Creative-Designer-fdbb2d?style=for-the-badge&labelColor=000000" />
+    </a>
   </div>
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=2" width="100%" />
+</div>
+
+### 🔥 About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" width="40%" />
+
+I'm a passionate and self-driven **Full-Stack Developer** who builds clean, responsive, and functional websites and apps. I combine technical skills with creative flair to deliver engaging digital experiences.
+
+I also thrive in the worlds of **Digital Marketing** and **Graphic Design**, helping brands grow and communicate effectively through well-designed strategies and visuals.
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" width="60%" />
+</div>
 
 ### 💼 What I Do
 
