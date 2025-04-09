@@ -29,11 +29,7 @@
 ### 🔥 About Me
 I'm a passionate and self-driven **Full-Stack Developer** who builds clean, responsive, and functional websites and apps. I combine technical skills with creative flair to deliver engaging digital experiences.
 
-I also thrive in the worlds of **Digital Marketing** and **Graphic Design**, helping brands grow and communicate effectively through well-designed strategies and visuals.
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" width="60%" />
-</div>
+I also thrive in the worlds of **Digital Marketing** and **Graphic Design**, helping brands grow and communicate effectively through well-designed strategies and visual
 
 ### 💼 What I Do
 
