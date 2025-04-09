@@ -72,7 +72,19 @@ I'm always interested in exciting projects and collaborations. Whether you need 
 ---
 
 <div align="center">
-  
+  <!-- Enhanced header with gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4CAF50,100:00A8E8&height=200&section=header&text=Ngong%20Kuot&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+  <!-- Existing typing animation with new color scheme -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer+%7C+Digital+Marketer;Creative+Designer+%26+UI%2FUX+Expert" alt="Typing SVG"/>
+
+  <!-- New tech stack section -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=react,vue,nodejs,python,php" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,figma" />
+  </div>
+</div>
+
 ### 📫 Reach Out To Me
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" />
 
@@ -96,5 +108,38 @@ I'm always interested in exciting projects and collaborations. Whether you need 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <!-- Enhanced Featured Projects section -->
+  ### 🌟 Featured Projects
+  <div align="center">
+    <a href="your-project-link">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="your-project-link">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    </a>
+  </div>
+  
+  <!-- New Activity Graph section -->
+  ### 📊 Contribution Activity
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  </div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+### 🤝 Let's Connect
+I'm always interested in exciting projects and collaborations. Whether you need a full-stack developer, digital marketing expert, or creative designer, let's discuss how I can help bring your vision to life.
+
+---
+
+<div align="center">
+  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4CAF50,100:00A8E8&height=120&section=footer"/>
 </div>
