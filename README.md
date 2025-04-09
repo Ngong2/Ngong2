@@ -1,11 +1,21 @@
-<!-- Header Banner (Replace with your actual banner URL) -->
-<p align="center">
-  <img src="https://via.placeholder.com/1920x400/0D1117/00A8E8?text=Ngong+Kuot+-+Full+Stack+Developer" alt="Ngong Kuot - Full Stack Developer" width="100%" />
-</p>
+<!-- Animated Header Banner -->
+<div align="center">
+  <!-- Animated background using CSS gradient animation -->
+  <div style="background: linear-gradient(-45deg, #0D1117, #00A8E8, #4CAF50, #FF6B6B); background-size: 400% 400%; animation: gradient 15s ease infinite; padding: 2rem; border-radius: 10px; margin-bottom: 2rem;">
+    <!-- Animated typing text -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋,+I'm+Ngong+Kuot" alt="Typing Animation" />
+    
+    <h3 style="color: white; margin-top: 1rem;">💻 Full-Stack Developer | 📈 Digital Marketer | 🎨 Graphic Designer</h3>
+  </div>
+</div>
 
-<h1 align="center">Hi there 👋, I'm Ngong Kuot</h1>
-
-<h3 align="center">💻 Full-Stack Developer | 📈 Digital Marketer | 🎨 Graphic Designer</h3>
+<style>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 
 ---
 
