@@ -1,11 +1,28 @@
-<!-- Animated Header Banner -->
+<!-- Professional Animated Header -->
 <div align="center">
-  <!-- Animated background using CSS gradient animation -->
-  <div style="background: linear-gradient(-45deg, #0D1117, #00A8E8, #4CAF50, #FF6B6B); background-size: 400% 400%; animation: gradient 15s ease infinite; padding: 2rem; border-radius: 10px; margin-bottom: 2rem;">
-    <!-- Animated typing text -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋,+I'm+Ngong+Kuot" alt="Typing Animation" />
+  <!-- Gradient background with smooth animation -->
+  <div style="
+    background: linear-gradient(-45deg, #1a2a6c, #b21f1f, #fdbb2d);
+    background-size: 400% 400%;
+    animation: gradient 12s ease infinite;
+    padding: 2.5rem;
+    border-radius: 12px;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  ">
+    <!-- Typing animation with professional font -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋,+I'm+Ngong+Kuot" alt="Professional Typing Animation" />
     
-    <h3 style="color: white; margin-top: 1rem;">💻 Full-Stack Developer | 📈 Digital Marketer | 🎨 Graphic Designer</h3>
+    <!-- Professional title with subtle animation -->
+    <h3 style="
+      color: white; 
+      margin-top: 1.2rem;
+      font-family: 'Segoe UI', sans-serif;
+      text-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+      animation: fadeIn 2s ease-in;
+    ">
+      💻 Full-Stack Developer | 📈 Digital Marketer | 🎨 Graphic Designer
+    </h3>
   </div>
 </div>
 
@@ -14,6 +31,10 @@
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
   }
 </style>
 
