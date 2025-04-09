@@ -11,7 +11,9 @@
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   ">
     <!-- Typing animation with professional font -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋,+I'm+Ngong+Kuot" alt="Professional Typing Animation" />
+    <div align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+there+👋,+I'm+Ngong+Kuot" alt="Professional Typing Animation" />
+    </div>
     
     <!-- Professional title with subtle animation -->
     <h3 style="
