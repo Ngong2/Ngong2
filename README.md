@@ -34,11 +34,11 @@ I also thrive in the worlds of **Digital Marketing** and **Graphic Design**, hel
 ### 💼 What I Do
 
 #### 🖥️ Full-Stack Development  
-- Frontend: **HTML5**, **CSS3**, **JavaScript (ES6+)**, **React.js**, **Vue.js**, **Tailwind CSS**  
-- Backend: **Node.js**, **Express**, **Python**, **REST/GraphQL APIs**  
+- Frontend: **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**  
+- Backend: **Node.js**, **Express**, **REST/GraphQL APIs**  
 - Databases: **MongoDB**, **MySQL**, **PostgreSQL**  
-- DevOps: **Docker**, **AWS**, **CI/CD Pipelines**  
-- Tools: **Git**, **GitHub**, **VS Code**, **Webpack**
+- DevOps: **Docker**, **AWS**, **CI/CD Pipelines**
+- Tools: **Git**, **GitHub**, **VS Code**, 
 
 #### 📊 Digital Marketing  
 - SEO Strategy & Google Analytics  
