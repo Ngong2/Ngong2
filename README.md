@@ -67,10 +67,10 @@ I believe that great design and powerful development can **transform ideas into 
 ### 📬 Let's Connect!
 
 - 🌐 Portfolio: [nkuot.arellabs.org](https://nkuot.arellabs.org)  
-- 📧 Email: `your@email.com`  
-- 💬 WhatsApp: [Chat with me](https://wa.me/yourphonenumber)  
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: `ngongkuot6@email.com`  
+- 💬 WhatsApp: +254110667278  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ngong-kuot-b80228286/  
+- 🐦 Twitter: https://x.com/ngongkuot6
 
 ---
 
