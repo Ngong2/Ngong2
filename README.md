@@ -70,7 +70,7 @@ I believe that great design and powerful development can **transform ideas into 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js," alt="Technical Skills" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" alt="Technical Skills" width="100%"/>
 </p>
 
 <p align="center">
