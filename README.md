@@ -35,22 +35,17 @@ I also thrive in the worlds of **Digital Marketing** and **Graphic Design**, hel
 
 #### 🖥️ Full-Stack Development  
 - Frontend: **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**  
-- Backend: **Node.js**, **Express**, **REST/GraphQL APIs**  
-- Databases: **MongoDB**, **MySQL**, **PostgreSQL**  
-- DevOps: **Docker**, **AWS**, **CI/CD Pipelines**
 - Tools: **Git**, **GitHub**, **VS Code**, 
 
 #### 📊 Digital Marketing  
 - SEO Strategy & Google Analytics  
 - Email Marketing (Mailchimp, SendGrid)  
-- Social Media Management & Campaigns  
-- Content Strategy & Copywriting  
+- Social Media Management & Campaigns   
 - Performance Tracking & Optimization
 
 #### 🎨 Graphic Design  
 - Brand Identity & Visual Systems  
 - UI/UX Design & Prototyping  
-- Print & Digital Media Design  
 - Adobe Creative Suite (Illustrator, Photoshop, XD)  
 - Figma & Canva  
 
