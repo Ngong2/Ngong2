@@ -34,7 +34,7 @@ I also thrive in the worlds of **Digital Marketing** and **Graphic Design**, hel
 ### 💼 What I Do
 
 #### 🖥️ Full-Stack Development  
-- Frontend: **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**  
+- Frontend: **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Tailwind CSS**   **Bootstrap 5**  
 - Tools: **Git**, **GitHub**, **VS Code**, 
 
 #### 📊 Digital Marketing  
