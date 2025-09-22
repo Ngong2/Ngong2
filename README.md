@@ -61,11 +61,16 @@ I believe that great design and powerful development can **transform ideas into 
 
 ### 📬 Let's Connect!
 
-- 🌐 Portfolio: [nkuot.arellabs.org](https://nkuot.arellabs.org)  
+- 🌐 Portfolio: [nkuot.arellabs.org](https://nkuot.arellabs.org)
+- 🌐 Portfolio: https://my-portfolio-jyck.vercel.app/
 - 📧 Email: `ngongkuot6@email.com`  
 - 💬 WhatsApp: +254110667278  
 - 🔗 LinkedIn: https://www.linkedin.com/in/ngong-kuot-b80228286/  
-- 🐦 Twitter: https://x.com/ngongkuot6
+- 🐦 Twitter: https://x.com/ngongkuot6  
+- 📘 Facebook: https://www.facebook.com/ngong.kuot.ngong.2025
+
+
+
 
 ---
 
